@@ -1,0 +1,8 @@
+class Test{
+public Static void main(String argd[]){
+public void print(){
+system.out.println("vaibhav");
+}
+}
+
+}
